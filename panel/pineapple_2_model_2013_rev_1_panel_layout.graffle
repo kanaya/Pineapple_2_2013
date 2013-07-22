@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>ActiveLayerIndex</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>ApplicationVersion</key>
 	<array>
 		<string>com.omnigroup.OmniGrafflePro</string>
@@ -4416,7 +4416,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-06-23 06:04:27 +0000</string>
+	<string>2013-06-23 14:36:23 +0000</string>
 	<key>Modifier</key>
 	<string>Ichi Kanaya</string>
 	<key>NotesVisible</key>
@@ -4516,7 +4516,7 @@
 		<key>SidebarWidth</key>
 		<integer>120</integer>
 		<key>VisibleRegion</key>
-		<string>{{4.0247677780909124, -3}, {552.63157568402141, 294.42724284341978}}</string>
+		<string>{{3.7151702566993037, -3}, {552.63157568402153, 294.42724284341978}}</string>
 		<key>Zoom</key>
 		<real>3.2300000190734863</real>
 		<key>ZoomValues</key>
